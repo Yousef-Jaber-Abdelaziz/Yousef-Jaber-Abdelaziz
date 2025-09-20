@@ -6,8 +6,7 @@
 
 ---
 
-📂 You can navigate my **Data Engineering and Analysis Projects** here:  
-<p align="center">
+📂 You can navigate my **Data Engineering and Analysis Projects** here:  <p align="center">
   <a href="https://github.com/Yousef-Jaber-Abdelaziz/Data-Engineering-Projects">
     <img src="https://img.shields.io/badge/🚀%20Data%20Engineering%20Projects-0366d6?style=for-the-badge" alt="Data Engineering Projects"/>
   </a>
