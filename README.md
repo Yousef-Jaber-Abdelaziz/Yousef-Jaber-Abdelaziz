@@ -1,13 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m @Yousef-Jaber-Abdelaziz<br>👀 I’m interested in Artificial Intelligence, Data Science, Data Engineering and Data Analysis<br>🌱 I’m currently gaining Experience in Data Engineering and Artificial Intelligence<br>💞️ I’m looking to collaborate on projects related to my interests<br>📫 You can reach me through my e-mail : yousef.gaber.ai@gmail.com<br>
 
-## 🚀 About Me
 
-* 👋 **Hello! I'm Yousef Jaber Abdelaziz (@Yousef-Jaber-Abdelaziz)**
-* 🧠 **Interests:** I am passionate about the intersection of **Artificial Intelligence**, **Data Science**, **Data Engineering**, and **Data Analysis**.
-* 🌱 **Currently:** Actively building and gaining experience in **Data Engineering** and **Artificial Intelligence** concepts and tools.
-* 🤝 **Collaboration:** I'm eager to collaborate on innovative projects within my areas of interest.
-* 📫 **Connect:** You can reach me directly via email at: yousef.gaber.ai@gmail.com
 
 ---
 
