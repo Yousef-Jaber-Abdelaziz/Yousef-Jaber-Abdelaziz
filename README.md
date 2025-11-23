@@ -1,8 +1,5 @@
 # 💫 About Me:
 👋 Hi, I’m @Yousef-Jaber-Abdelaziz<br>👀 I’m interested in Artificial Intelligence, Data Science, Data Engineering and Data Analysis<br>🌱 I’m currently gaining Experience in Data Engineering and Artificial Intelligence<br>💞️ I’m looking to collaborate on projects related to my interests<br>📫 You can reach me through my e-mail : yousef.gaber.ai@gmail.com<br>
-
-
-
 ---
 
 ### 💡 See My Work
@@ -10,6 +7,7 @@
 To explore my **Data & AI Projects**, please click the button below!
 
 [![My Data & AI Projects](https://img.shields.io/badge/Data%20%26%20AI%20Projects-Click%20Here-blue?style=for-the-badge&logo=github)](https://github.com/Yousef-Jaber-Abdelaziz/Data-Engineering-Projects.git)
+
 ---
 
 
