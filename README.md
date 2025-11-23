@@ -6,10 +6,10 @@
 
 To explore my **Data & AI Projects**, please click the button below!
 
-<p align="center">
+<div align="center">
   
 [![Data & AI Project Portfolio](https://img.shields.io/badge/View%20Data%20%26%20AI%20Projects-36A2EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yousef-Jaber-Abdelaziz/Data-Engineering-Projects.git)
-</p>
+</div>
 
 ---
 
